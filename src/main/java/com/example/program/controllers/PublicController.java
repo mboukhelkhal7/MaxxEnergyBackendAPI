@@ -35,6 +35,11 @@ public class PublicController {
     "values", List.of("sustainabilty", "innovation", "etc"),
     "imageurl", "/assets/images/image1"
             );
+    // staff name, roles
+    //ex. ceo carl brief description and maybe contact
+    // business goals/motto/mission
+
+
 }
 
 
