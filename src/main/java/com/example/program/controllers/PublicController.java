@@ -88,7 +88,8 @@ public class PublicController {
         );
     }
 
-    
+
+    // may not need all these endpoint examples as some can be done purely through the frontend
 
 
 }
